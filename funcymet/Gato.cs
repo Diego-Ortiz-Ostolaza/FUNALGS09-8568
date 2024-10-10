@@ -22,5 +22,7 @@ namespace funcymet {
         public string Raza { get; set; }    //trabajaremos con este
         public string Color { get; set; }    //trabajaremos con este
         public double Peso { get; set; }    //trabajaremos con este
+
+
     }
 }
