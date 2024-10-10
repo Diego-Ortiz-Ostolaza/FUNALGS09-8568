@@ -9,3 +9,6 @@ Console.WriteLine($"Mi gato {g.GetNombre()}, tiene {g.Edad} años y es {g.Raza}"
 
 Gato catnoir = new Gato();
 catnoir.SetNombre("XYZ");
+
+Gato dongato = new Gato();
+dongato.SetNombre("Don gato");
